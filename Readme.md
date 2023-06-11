@@ -1,5 +1,5 @@
 # Chroma key com OpenCV
-
+![movie (2)](https://github.com/JonysArcanjo/ChromaKey_OpenCV/assets/48812740/c5ebe01c-aa07-4ceb-a385-4fe65e9095c6)
 ## Sobre o Projeto
 
 Este projeto utiliza técnicas de visão computacional para manipular e combinar dois vídeos: um vídeo principal e um vídeo de fundo. Ele extrai os pixels do vídeo principal que correspondem a uma faixa específica de cores verdes e os substitui pelos pixels correspondentes do vídeo de fundo. O resultado é exibido em tempo real.
