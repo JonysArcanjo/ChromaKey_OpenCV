@@ -4,7 +4,7 @@
 
 Este projeto utiliza técnicas de visão computacional para manipular e combinar dois vídeos: um vídeo principal e um vídeo de fundo. Ele extrai os pixels do vídeo principal que correspondem a uma faixa específica de cores verdes e os substitui pelos pixels correspondentes do vídeo de fundo. O resultado é exibido em tempo real.
 
-[para o passo a passo do código click aqui.](https://jonysarcanjo.medium.com/chroma-key-com-opencv-eb3118dee66)
+[Artigo com detalhamento do projeto.](https://jonysarcanjo.medium.com/chroma-key-com-opencv-eb3118dee66)
 
 
 ## Estrutura do projeto
