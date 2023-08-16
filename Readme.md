@@ -1,13 +1,13 @@
-# Chroma key com OpenCV
+# Chroma Key with OpenCV
 ![movie (2)](https://github.com/JonysArcanjo/ChromaKey_OpenCV/assets/48812740/c5ebe01c-aa07-4ceb-a385-4fe65e9095c6)
-## Sobre o Projeto
 
-Este projeto utiliza técnicas de visão computacional para manipular e combinar dois vídeos: um vídeo principal e um vídeo de fundo. Ele extrai os pixels do vídeo principal que correspondem a uma faixa específica de cores verdes e os substitui pelos pixels correspondentes do vídeo de fundo. O resultado é exibido em tempo real.
+## About the Project
 
-[Artigo com detalhamento do projeto.](https://jonysarcanjo.medium.com/chroma-key-com-opencv-eb3118dee66)
+This project uses computer vision techniques to manipulate and combine two videos: a main video and a background video. It extracts pixels from the main video that correspond to a specific range of green colors and replaces them with the corresponding pixels from the background video. The result is displayed in real-time.
 
+[Detailed article about the project.](https://jonysarcanjo.medium.com/chroma-key-com-opencv-eb3118dee66)
 
-## Estrutura do projeto
+## Project Structure
 - Readme.md
 - data
   - fundo_canva.mp4
@@ -15,25 +15,30 @@ Este projeto utiliza técnicas de visão computacional para manipular e combinar
 - main.py
 - requirements.txt
 
-## Bibliotecas Utilizadas
+## Libraries Used
 
-As seguintes bibliotecas são utilizadas neste projeto:
-- OpenCV (cv2): Utilizada para processamento de imagem e vídeo.
+The following libraries are used in this project:
+- OpenCV (cv2): Used for image and video processing.
 - Numpy
 
+## Application in Production
 
-## Aplicação em PRD
+This computer vision project can be applied in various applications, such as:
 
-Este projeto de visão computacional pode ser aplicado em várias aplicações, tais como:
+1. Video Conferencing: It can be used to replace the background of a main video during video calls, providing a virtual background.
+2. Augmented Reality: By replacing the green color with virtual objects or scenes, it can enhance the augmented reality experience.
+3. Special Effects: It can be used in video production to add special effects or merge multiple video sources.
 
-1. Videoconferência: Pode ser usado para substituir o fundo de um vídeo principal durante videoconferências, fornecendo um fundo virtual.
-2. Realidade Aumentada: Ao substituir a cor verde por objetos ou cenas virtuais, pode melhorar a experiência de realidade aumentada.
-3. Efeitos Especiais: Pode ser usado na produção de vídeos para adicionar efeitos especiais ou mesclar várias fontes de vídeo.
+## Conclusion
 
-## Conclusão
+This project demonstrates the use of computer vision techniques to replace a specific color range in a main video with the corresponding pixels from a background video. It can be extended and customized based on specific requirements and applications.
 
-Este projeto demonstra o uso de técnicas de visão computacional para substituir uma faixa específica de cor em um vídeo principal pelos pixels correspondentes de um vídeo de fundo. Ele pode ser estendido e personalizado com base em requisitos e aplicações específicas.
+## Contact
+[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/jonysarcanjo/)
 
-## Licença
+[![Medium](https://img.icons8.com/color/32/000000/medium-logo.png)](https://medium.com/@jonysarcanjo)
 
-Este projeto está licenciado sob a Licença MIT.
+e-mail: contato.jonysarcanjo@gmail.com
+
+## License
+This project is licensed under the MIT License.
